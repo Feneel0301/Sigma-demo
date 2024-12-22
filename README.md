@@ -1,2 +1,2 @@
 # Sigma-demo
-This is demo repository for git and gitub
+This is demo repository for git and gitub.
